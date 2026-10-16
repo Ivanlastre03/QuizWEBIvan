@@ -1,0 +1,8 @@
+body { background: #f4f6fb; color: #18243b; font-family: system-ui, -apple-system, Segoe UI, sans-serif; }
+.hero { background: linear-gradient(120deg, #182a63, #365bb0); color: white; }
+.letter-space { letter-spacing: .1em; }
+.card { border-radius: 16px; }
+.book-icon { background: #eef3ff; border-radius: 12px; padding: .6rem; font-size: 1.55rem; }
+.empty { border: 2px dashed #d8e0ee; background: white; }
+.btn-primary { background: #315ab4; border-color: #315ab4; }
+.btn-primary:hover { background: #224691; }
